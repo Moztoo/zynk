@@ -1,0 +1,30 @@
+{
+    "Guitar World": "https://www.guitarworld.com/feeds/all",
+  
+    "OMG Ubuntu": "https://www.omgubuntu.co.uk/feed",
+    "It's FOSS": "https://itsfoss.com/feed/",
+    "LWN.net": "https://lwn.net/headlines/rss",
+
+    "Hackaday": "https://hackaday.com/feed/",
+    "Adafruit": "https://blog.adafruit.com/feed/",
+    "EEVBlog": "https://www.eevblog.com/feed/",
+  
+    "Real Python": "https://realpython.com/atom.xml",
+    "Python Insider": "https://feeds.feedburner.com/PythonInsider",
+  
+    "RetroRGB": "https://www.retrorgb.com/feed",
+  
+    "Ars Technica": "https://feeds.arstechnica.com/arstechnica/index",
+    "Wired": "https://www.wired.com/feed/rss",
+    "MIT Tech Review": "https://www.technologyreview.com/feed/",
+  
+    "Reuters World": "http://feeds.reuters.com/Reuters/worldNews",
+    "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "NYTimes World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "Al Jazeera World": "https://www.aljaz|era.com/xml/rss/all.xml",
+  
+    "Krebs on Security": "https://krebsonsecurity.com/feed/",
+    "Threatpost": "https://threatpost.com/feed/",
+    "The Hacker News": "https://feeds.feedburner.com/TheHackersNews"
+  }
+  
