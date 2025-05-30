@@ -2,6 +2,8 @@
 
 **Zynk** is a lightweight terminal-based RSS reader built in Python. It fetches and displays news from RSS feeds directly in your terminal, providing a fast and distraction-free reading experience.
 
+![imagen](https://github.com/user-attachments/assets/f407207b-9280-45e6-98bd-4b7af1620e12)
+
 > ⚠️ **Work in Progress**: This project is still under active development. Features and structure may change.
 
 ## Features
