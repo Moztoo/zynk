@@ -1,0 +1,1 @@
+recursive-include zynk/feed *.json
